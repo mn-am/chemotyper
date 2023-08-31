@@ -1,5 +1,3 @@
-# chemotyper
-
 Welcome to the ChemoTyper
 =========================
 
