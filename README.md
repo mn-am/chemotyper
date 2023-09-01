@@ -22,7 +22,7 @@ The ChemoTyper application includes [​ToxPrint](https://toxprint.org). [​Tox
 
 ## Contact
 
-For technical support please contact [​support@mn-am.com](mailto:support@mn-am.org).
+For technical support please contact [​support@mn-am.com](mailto:support@mn-am.com).
 
 ## Acknowledgement
 
