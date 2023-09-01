@@ -1,8 +1,6 @@
-Welcome to ChemoTyper
-=====================
+# Welcome to ChemoTyper
 
-ChemoTyper application
-----------------------
+## ChemoTyper application
 
 The ChemoTyper application is a tool that allows for searching and highlighting chemotypes (chemical substructures or subgraphs) in datasets of molecules. Typical applications are as follows.
 
@@ -18,19 +16,13 @@ The ChemoTyper application includes [​ToxPrint](https://toxprint.org). [​Tox
 *   Ashby-Tennant genotoxic carcinogen rules [​(Ashby, J.; Tennant, R.W., 1988)](http://dx.doi.org/10.1016/0165-1218(88)90114-0)
 *   Cancer TTC categories [​(Kroes, R. et. al. 2004)](http://dx.doi.org/10.1016/j.fct.2003.08.006).
 
-Publications about ToxPrint chemotypes, CSRML language, and ChemoTyper application
-----------------------------------------------------------------------------------
+### ChemoTyper Application Download
 
-*   [​Yang C, Tarkhov A, Marusczyk J, *et al.* "New Publicly Available Chemical Query Language, CSRML, To Support Chemotype Representations for Application to Data Mining and Modeling." J. Chem. Inf. Model. 2015;55(3):510-528.](http://pubs.acs.org/doi/abs/10.1021/ci500667v)
-
-### ChemoTyper application Download
-
-ChemoTyper is available for download for registered users. The new version 1.1 was released in April 2023.
+The ChemoTyper application is available for download for registered users. The new version 1.1 was released in April 2023.
 
 Please [login](/login) if you have already an account or [register](/register).
 
-Chemotype Editor
-----------------
+## Chemotype Editor
 
 The Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Substructures and patterns can be sketched using a molecular editor or imported from an external file. Atoms, bonds, molecular annotations, and properties can be added through the GUI application. Edited chemotypes can be saved in the XML-based Chemical Subgraphs and Reactions Mark-up Language (CSRML) and used as structural alerts or chemical fingerprints. The development of the Chemotype Editor received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 777365 ([​eTRANSAFE project](https://etransafe.eu/)) and the Cosmetics Europe Ontology project.
 
@@ -42,8 +34,7 @@ Please [login](/login) if you already have an account or [register](/register).
 
 Please note, this implementation of the editor is preliminary. It does not currently support reactions, physicochemical properties of atoms, bonds, and molecules, additional substructures exceptions, and inclusions. Although the CSRML format can handle multiple chemotypes, the editor is limited to a single chemotype at a time. The editor can import SMARTS using copy & paste. However, SMARTS recursive fragments and reactions are not supported.
 
-CSRML Reference Implementation
-------------------------------
+## CSRML Reference Implementation
 
 The Chemical Subgraphs & Reactions Mark-up Language – CSRML – is an XML-based chemical query language. CSRML is a universal media describing chemical (sub)structures and their query attributes for chemical (sub)structure searches. Furthermore, chemical reactions and its transformation rules can be defined. The CSRML standard is targeted to the following purposes and applications.
 
@@ -66,13 +57,15 @@ The source code of the CSRML reference implementation is available for download 
 
 Please [login](/login) if you have already an account or [register](/register).
 
-Contact
--------
+## Reference
+
+*   [​C Yang, A Tarkhov, J Marusczyk, B Bienfait, J Gasteiger, T Kleinoeder, T Magdziarz, O Sacher, CH Schwab, JSchwoebel, L Terfloth, K Arvidson, A Richard, A Worth, J Rathman. New Publicly Available Chemical Query Language, CSRML, To Support Chemotype Representations for Application to Data Mining and Modeling. *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528.](http://pubs.acs.org/doi/abs/10.1021/ci500667v)
+
+## Contact
 
 In technical support issues please contact us through: [​info@chemotyper.org](mailto:info@chemotyper.org)
 
-Acknowledgement
----------------
+## Acknowledgement
 
 The ChemoTyper application was developed by Molecular Networks GmbH, Erlangen, Germany under a contract from the U.S. FDA Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety. The XML-based substructure (or chemotype) definition language CSRML was co-developed in collaboration with Altamira LLC, Columbus, OH, USA.
 
