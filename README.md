@@ -10,7 +10,7 @@ The ChemoTyper application is a tool that allows for searching and highlighting 
 *   Grouping of chemicals according to chemotypes, and
 *   Fingerprinting of chemical structure sets against chemotypes
 
-The ChemoTyper application includes [​ToxPrint](https://toxprint.org). [​ToxPrint](https://toxprint.org) is a public set of chemotypes developed by Altamira LLC for the CERES poject of the US FDA Center for Food Safety and Applied Nutrition (CFSAN). The [​ToxPrint](https://toxprint.org) library contains three basic subsets.
+The ChemoTyper application includes [​ToxPrint](https://toxprint.org). [​ToxPrint](https://toxprint.org) is a public set of chemotypes developed by Altamira LLC for the CERES poject of the U.S. FDA Center for Food Safety and Applied Nutrition (CFSAN). The [​ToxPrint](https://toxprint.org) library contains three basic subsets.
 
 *   Generic structural fragments
 *   Ashby-Tennant genotoxic carcinogen rules [​(J Ashby, RW Tennant 1988)](http://dx.doi.org/10.1016/0165-1218(88)90114-0)
