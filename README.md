@@ -28,7 +28,7 @@ Please [login](/login) if you have already an account or [register](/register).
 
 ## Contact
 
-In technical support issues please contact us through [​info@chemotyper.org](mailto:info@chemotyper.org)
+For technical support please contact [​info@chemotyper.org](mailto:info@chemotyper.org).
 
 ## Acknowledgement
 
