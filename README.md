@@ -1,4 +1,6 @@
-![ChemoTyper Header](./images/chemotyperNewHomeGithub282x63.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p style="text-align:right">![ChemoTyper Header](./images/chemotyperNewHomeGithub282x63.png)
+
+---------
 
 # Welcome to ChemoTyper
 
