@@ -1,3 +1,5 @@
+![ChemoTyper Header](./images/chemotyperNewHomeGithub282x63.png)
+
 # Welcome to ChemoTyper
 
 ## ChemoTyper application
