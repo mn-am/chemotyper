@@ -1,4 +1,4 @@
-![ToxPrint Header](./images/header256x60.png)
+![ChemoTyper Header](./images/header256x60.png)
 
 <img align="right" src="./images/chemotyperNewHomeGithub282x63.png">&nbsp;</img>
 
