@@ -1,6 +1,4 @@
-<img align="right" src="./images/chemotyperNewHomeGithub282x63.png" />
-
----------
+<img align="right" src="./images/chemotyperNewHomeGithub282x63.png">&nbsp;</img>
 
 # Welcome to ChemoTyper
 
