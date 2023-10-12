@@ -28,6 +28,12 @@ The ChemoTyper application houses the [​ToxPrint](https://github.com/mn-am/tox
 
 For technical support please contact [​support@mn-am.com](mailto:support@mn-am.com).
 
+## How to Cite ChemoTyper
+
+Please use the full information provided in the section "Cite this repository" in the "About" tab or as a minimum as follows.
+
+(a) Yang *et al.* *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528 (DOI: doi.org/10.1021/ci500667v). (b) Chemotyper application by MN-AM, Version 1.3 r14761, github.com/mn-am/chemotyper, accessed on $DATE.
+
 ## Acknowledgement
 
 The ChemoTyper application was developed by Molecular Networks GmbH, Erlangen, Germany under a contract from the U.S. FDA Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety.
