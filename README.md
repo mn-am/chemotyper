@@ -6,7 +6,7 @@
 
 ## ChemoTyper application
 
-The ChemoTyper application is a tool that allows for searching and highlighting chemotypes (chemical substructures or subgraphs) in datasets of molecules. Typical applications are as follows.
+The ChemoTyper application is a tool that allows for searching and highlighting chemotypes - chemical substructures or subgraphs with optionally embedded atom, bond, electronic, or molecular properties - in datasets of molecules. Typical applications are as follows.
 
 *   Searching for structural alerts for toxicity in chemical structure files
 *   Filtering of chemical structures according to chemotypes
