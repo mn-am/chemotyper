@@ -6,7 +6,7 @@
 
 ## ChemoTyper application
 
-The ChemoTyper application is a tool that allows for searching and highlighting chemotypes - chemical substructures or subgraphs with optionally embedded atom, bond, electronic, or molecular properties - in datasets of molecules. Typical applications are as follows.
+The ChemoTyper application is a tool that allows for searching, matching, and highlighting chemotypes - chemical substructures or subgraphs with optionally embedded atom, bond, electronic, or molecular properties - in datasets of molecules. Typical applications are as follows.
 
 *   Searching for structural alerts for toxicity in chemical structure files
 *   Filtering of chemical structures according to chemotypes
@@ -19,6 +19,10 @@ The ChemoTyper application houses the [​ToxPrint](https://github.com/mn-am/tox
 *   Generic structural fragments
 *   Ashby-Tennant genotoxic carcinogen rules [​(J Ashby, RW Tennant 1988)](http://dx.doi.org/10.1016/0165-1218(88)90114-0)
 *   Cancer TTC categories [​(R Kroes *et. al.* 2004)](http://dx.doi.org/10.1016/j.fct.2003.08.006).
+
+## Chemotype Editor application
+
+Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Please visit the [Chemotype Editor repository](https://github.com/mn-am/chemotype-editor) on GitHub.
 
 ## References
 
